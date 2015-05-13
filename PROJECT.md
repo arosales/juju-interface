@@ -30,7 +30,7 @@ User Stories
 ============
 As a new charmer I want easy access to new Juju relations. 
 As a charm author I want to be able to take advantage of new features in relations.
-As a charm author I want to easily compose relation stubs into my charm.
+As a charm author I have a target charm I want to create a realtion to. I would like to easily compose relation stubs in my charm to connect to the target charm.
 As an interface creator I want to easily create and publish interface code.
 As an interface maintainer I want to publish a new set of changes to my interface.
 
